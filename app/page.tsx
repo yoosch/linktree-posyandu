@@ -5,8 +5,8 @@ import Image from "next/image";
 
 const links = [
   { name: "Form Balita", href: "https://docs.google.com/forms/d/e/1FAIpQLSfbKJnilSqAhMf5D-W1UE0wGPEtE9slZJ0pN_u6NZ9vkcF8eg/viewform?pli=1" },
-  { name: "Form Remaja",  },
-  { name: "Form Lansia",  },
+  // { name: "Form Remaja",  },
+  // { name: "Form Lansia",  },
   { name: "Form Ibu Hamil",  },
 ];
 
@@ -63,7 +63,7 @@ export default function Home() {
 
         {/* Title */}
         <h1 className="text-2xl font-bold text-center text-[#062922] mb-6 tracking-wide">
-          Sistem Informasi Kesehatan Masyarakat
+          Sistem Informasi Kesehatan Masyarakat Desa Tedunan
         </h1>
 
         {/* Social Buttons */}
