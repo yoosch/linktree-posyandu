@@ -4,7 +4,7 @@ import { useEffect, useState } from "react";
 import Image from "next/image";
 
 const links = [
-  { name: "Form Balita", href: "https://docs.google.com/forms/d/e/1FAIpQLSfbKJnilSqAhMf5D-W1UE0wGPEtE9slZJ0pN_u6NZ9vkcF8eg/viewform?pli=1" },
+  { name: "Form Balita", href: "https://docs.google.com/forms/d/e/1FAIpQLSeH67Ti9O_JtrjF2CeUempYzd__znKvmd4q36B5o1Q7den8hQ/viewform" },
   // { name: "Form Remaja",  },
   // { name: "Form Lansia",  },
   { name: "Form Ibu Hamil",  },
